@@ -49,7 +49,7 @@ Feel free to fork the repository and submit pull requests. Contributions are wel
 This project is licensed under the MIT License.
 
 **Repository:**
-[GitHub - Tic Tac Boi](https://github.com/yourusername/tic-tac-boi)
+[GitHub - Tic Tac Boi](https://github.com/CalestialAshley35/Tic-Tac-Boi.git )
 
 ---
 
