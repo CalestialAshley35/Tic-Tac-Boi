@@ -50,7 +50,3 @@ This project is licensed under the MIT License.
 
 **Repository:**
 [GitHub - Tic Tac Boi](https://github.com/CalestialAshley35/Tic-Tac-Boi.git )
-
----
-
-By replacing the placeholder URL with your actual GitHub repository link and expanding the game features, you can make the project more comprehensive and engaging for potential contributors and users. 
